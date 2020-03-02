@@ -1,0 +1,19 @@
+{
+  "name": "appbir",
+  "version": "1.0.0",
+  "description": "个人系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appbir/appbir.git"
+  },
+  "author": "appbir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appbir/appbir/issues"
+  },
+  "homepage": "https://github.com/appbir/appbir#readme"
+}
