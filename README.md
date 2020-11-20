@@ -1,6 +1,9 @@
 # appbir
 个人系统 -- 发布公网的系统
 
+站点地址
+https://appbir.github.io/appbir/
+
 ### 愿景
 让每个人成长更快，办公更便捷。
 
